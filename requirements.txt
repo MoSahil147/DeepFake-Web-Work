@@ -1,5 +1,5 @@
-streamlit==1.46.0
-tensorflow==2.15.0          # wheels available for Python 3.10
-opencv-python-headless       # smaller, no X-server needed
-pillow
+streamlit==1.26.0
+tensorflow==2.15.0
+opencv-python-headless
 numpy
+pillow
