@@ -1,5 +1,6 @@
-streamlit
-tensorflow
-opencv-python
+streamlit==1.46.0
+tensorflow-cpu==2.15.1
+opencv-python-headless==4.10.0.82   # smaller than opencv-python
+pillow
 numpy
-Pillow
+gdown                              # if you later load the model from Drive
